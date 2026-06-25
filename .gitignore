@@ -1,6 +1,7 @@
 backend/.venv/
 backend/patient_monitor.db
 frontend/.next/
+frontend/.vercel/
 frontend/node_modules/
 __pycache__/
 *.pyc
