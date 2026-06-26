@@ -15,7 +15,7 @@ services:
           name: patient-monitor-db
           property: connectionString
       - key: FRONTEND_URL
-        value: https://patient-monitoring-system.vercel.app
+        value: https://frontend-seven-gamma-z69wf5jgnb.vercel.app
       - key: SEED_ON_STARTUP
         value: "true"
 
